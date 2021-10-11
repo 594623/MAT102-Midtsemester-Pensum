@@ -3,6 +3,8 @@
 
 > *Til og med side 152.*
 
+[Notater og forelesninger fra kapittel 11](https://hvl.instructure.com/courses/16734/pages/forelesinger-og-notater-fra-kapittel-11)
+
 ## Delkapitler
 
 - 11.1 Partial derivatives and applications (151)
@@ -22,6 +24,8 @@
     - Klassifisere ekstremalpunktene til en funksjon med to variabler.
 
 # Kap. 14: Sampling from discrete distributions
+
+[Forelesninger fra kapittel 14](https://hvl.instructure.com/courses/16734/pages/forelesinger-fra-kapittel-14)
 
 ## Delkapitler
 
@@ -45,6 +49,8 @@
     - Finne gjennomsnitt, varians og standardavvik i et hypergeometrisk forsøk.
 
 # Kap. 16: Probability
+
+[Notater og forelesninger fra kapittel 16](https://hvl.instructure.com/courses/16734/pages/forelesinger-og-notater-fra-kapittel-16)
 
 ## Delkapitler
 
@@ -70,6 +76,8 @@
 # Kap. 17: The normal distribution
 
 > *Til "The central limit ..." på side 269.*
+
+[Notater og forelesninger fra kapittel 17](https://hvl.instructure.com/courses/16734/pages/forelesinger-og-notater-fra-kapittel-17)
 
 ## Delkapitler
 
