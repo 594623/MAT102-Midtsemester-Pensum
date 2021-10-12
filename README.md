@@ -25,6 +25,7 @@
 
 # Kap. 14: Sampling from discrete distributions
 
+[Notater fra kapittel 14](https://github.com/594623/MAT102-Midtsemester-Pensum/blob/main/Kap14_Notater.pdf)<br>
 [Forelesninger fra kapittel 14](https://hvl.instructure.com/courses/16734/pages/forelesinger-fra-kapittel-14)
 
 ## Delkapitler
